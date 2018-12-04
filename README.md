@@ -48,6 +48,14 @@ bitcoin-NG的关键在于：
 
  bitcoin-NG的leader选举仍然采用原来的工作量证明算法。
 
+文献：《Off-chaining Models and Approaches to Off-chain Computations》首次提出off-chain的概念模型分类。主要包括off-chain计算、off-chain存储、和混合off-chain模式。
+文章重点讨论了off-chain计算及其分类：
++ categories Verifiable Computation
++ Secure Multiparty Computation
++ Enclave-based Computation
++ Incentive-driven Computation
+
+文献《On or Off the Blockchain? Insights on Off-Chaining Computation and Data》也有不错的综述。
 
 
 
