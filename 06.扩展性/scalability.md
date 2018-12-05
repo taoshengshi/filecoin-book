@@ -1,8 +1,3 @@
-# research for blockchainNG
-
-
-Note : the format of this doc refer from :https://markdown-it.github.io/
-
 ##  扩展性
 
 性能，或者说是扩展性，是去中心化信任系统的必然代价，其根源在于去中心化的共识机制。

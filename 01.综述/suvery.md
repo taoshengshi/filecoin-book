@@ -1,9 +1,3 @@
-# research for blockchainNG
-
-
-Note : the format of this doc refer from :https://markdown-it.github.io/
-
-
 ##  综述
 
 在中文综述方面，有几篇文章值得推荐。   
