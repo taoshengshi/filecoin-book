@@ -4,6 +4,11 @@
 Note : the format of this doc refer from :https://markdown-it.github.io/
 
 
+##  中文综述
+
+在中文综述方面，有几篇文章值得推荐。   
++ 邵奇峰 等《区块链技术:架构及进展》
++ 袁勇 等 《区块链技术发展现状与展望》
 
 
 
@@ -62,9 +67,9 @@ bitcoin-NG的关键在于：
 文献《On or Off the Blockchain? Insights on Off-Chaining Computation and Data》也有不错的综述。
 
 
-
-##  参考文献：
+## 参考文献
 + SHEHAR BANO 等 《The Road to Scalable Blockchain Designs》
 + 潘晨 等 《区块链可扩展性研究：问题与方法》
 + 喻辉 等 《比特币区块链扩容技术研究》
+
 
