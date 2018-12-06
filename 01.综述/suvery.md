@@ -8,4 +8,4 @@
 
 综述中，我最为推荐的是《Bitcoin’s Academic Pedigree》，[这里](https://github.com/stone-note/articles)有我翻译的中文版可以下载。
 
-
+《区块链与可信数据管理-问题与方法》综述了数据可信的问题。
