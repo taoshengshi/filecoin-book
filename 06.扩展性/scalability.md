@@ -52,10 +52,14 @@ bitcoin-NG的关键在于：
 
 文献《On or Off the Blockchain? Insights on Off-Chaining Computation and Data》也有不错的综述。
 
+收到《Scaling Nakamoto Consensus to Thousands of Transactions per Second》，辅助一些资料看一下：
++ https://cloud.tencent.com/developer/news/296106
++ https://www.jianshu.com/p/8627df6f911d
 
 ## 参考文献
 + SHEHAR BANO 等 《The Road to Scalable Blockchain Designs》
 + 潘晨 等 《区块链可扩展性研究：问题与方法》
 + 喻辉 等 《比特币区块链扩容技术研究》
++ Chenxing Li等 《Scaling Nakamoto Consensus to Thousands of Transactions per Second》
 
 
