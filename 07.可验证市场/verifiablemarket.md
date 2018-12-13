@@ -48,13 +48,12 @@
 > 在Filecoin检索市场，检索矿工可以根据用户所要求检索的内容，知道那些是高访问的内容，检索矿工可以将起存储，这样可以增加额外的收益。   
 
 
-借鉴交易所架构设计：
-![arch](https://raw.githubusercontent.com/stone-note/stone-note.github.io/master/_pictures/2018-12-13-trademaket.png)   
+借鉴交易所架构设计：    
+![arch1](https://raw.githubusercontent.com/stone-note/stone-note.github.io/master/_pictures/2018-12-13-trademaket.png)   
 
-EtherFlyer交易所实例（github地址：https://github.com/EtherFlyer/etherflyer_exchange_server）：
-![arch1](https://user-images.githubusercontent.com/33028500/32134960-134bcb4e-bc32-11e7-9dbf-1017adc4e893.jpg)    
+EtherFlyer交易所实例（github地址：https://github.com/EtherFlyer/etherflyer_exchange_server）：    
+![arch2](https://user-images.githubusercontent.com/33028500/32134960-134bcb4e-bc32-11e7-9dbf-1017adc4e893.jpg)    
 
- 
-
-
+Order placement and trading procedure(link: http://csx.com.kh/operation/market/listPosts.do?MNCD=30201)    
+![arch3](http://csx.com.kh/en/common/img/operation/img_market2_1_1.gif) 
 
