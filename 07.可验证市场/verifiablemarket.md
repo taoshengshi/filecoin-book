@@ -45,4 +45,16 @@
 
 > 获取订单 -- 检索市场中包含三种类型的订单； 客户创建出价单Obid，检索矿工创建询价订单Oask，与存储矿工和客户端达成的交易订单Odeal。
 > 获取订单薄 -- 检索市场的订单薄是有效的并且都是公开的出价订单，询价订单和交易订单的集合。与存储市场不同，检索市场的每个用户有不同的订单薄，因为订单薄是在网络中进行传播的，每个矿工和客户只会跟踪他们所感兴趣的订单。
-> 在Filecoin检索市场，检索矿工可以根据用户所要求检索的内容，知道那些是高访问的内容，检索矿工可以将起存储，这样可以增加额外的收益。
+> 在Filecoin检索市场，检索矿工可以根据用户所要求检索的内容，知道那些是高访问的内容，检索矿工可以将起存储，这样可以增加额外的收益。   
+
+
+借鉴交易所架构设计：
+![arch](https://raw.githubusercontent.com/stone-note/stone-note.github.io/master/_pictures/2018-12-13-trademaket.png)   
+
+EtherFlyer交易所实例（github地址：https://github.com/EtherFlyer/etherflyer_exchange_server）：
+![arch1](https://user-images.githubusercontent.com/33028500/32134960-134bcb4e-bc32-11e7-9dbf-1017adc4e893.jpg)    
+
+ 
+
+
+
