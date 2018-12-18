@@ -57,3 +57,7 @@ EtherFlyer交易所实例（github地址：https://github.com/EtherFlyer/etherfl
 Order placement and trading procedure(link: http://csx.com.kh/operation/market/listPosts.do?MNCD=30201)    
 ![arch3](http://csx.com.kh/en/common/img/operation/img_market2_1_1.gif) 
 
+
+https://medium.com/prysmeconomics/blockchain-incentives-101-what-they-are-and-why-they-matter-5127afb56aeb
+
+
