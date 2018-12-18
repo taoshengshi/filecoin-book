@@ -20,4 +20,5 @@ Note : the format of this doc refer from :https://markdown-it.github.io/
 ## 我关注的github账号
 
 + LiDingHao，区块链爱好者，GitHub以及他的博客：https://github.com/DinghaoLI (https://dinghaoli.github.io/)
-+ 
++ dbreadings : https://github.com/rxin/db-readings
++ Rongjialei : 以太坊核心开发者：https://github.com/rjl493456442
