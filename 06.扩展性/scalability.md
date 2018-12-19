@@ -62,4 +62,6 @@ bitcoin-NG的关键在于：
 + 喻辉 等 《比特币区块链扩容技术研究》
 + Chenxing Li等 《Scaling Nakamoto Consensus to Thousands of Transactions per Second》
 
+## to read
++ 《Sidechains: Decoupled Consensus Between Chains》
 
