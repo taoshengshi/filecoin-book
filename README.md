@@ -16,18 +16,3 @@ Note : the format of this doc refer from :https://markdown-it.github.io/
 11. 边缘计算
 12. 物联网
 13. 内容分发网络
-
-
-## 我关注的github账号及博客
-
-+ LiDingHao，区块链爱好者，GitHub以及他的博客：https://github.com/DinghaoLI (https://dinghaoli.github.io/)
-+ dbreadings : https://github.com/rxin/db-readings
-+ Rongjialei : 以太坊核心开发者：https://github.com/rjl493456442
-+ http://duanple.com/
-+ http://www.zenlife.tk/
-+ https://github.com/dyweb/papers-notebook
-+ http://mindhacks.cn/
-+ https://coolshell.cn/articles/author/haoel
-+ https://github.com/chaozh/awesome-blockchain-cn
-+ https://liuboyu.github.io/blockchain/ （https://github.com/LiuBoyu/blockchain）
-
