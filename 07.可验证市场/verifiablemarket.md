@@ -61,3 +61,34 @@ Order placement and trading procedure(link: http://csx.com.kh/operation/market/l
 https://medium.com/prysmeconomics/blockchain-incentives-101-what-they-are-and-why-they-matter-5127afb56aeb
 
 
+
+《swap, swear and swindle: incentive system for swarm and beyond》
+以太坊的swarm存储系统期望做到两个方面：
++ 内容交付
+> 数据能够检索：把节点的ID，数据块的ID映射到同一地址空间，数据块保存在最接近其ID的节点上。swarm的检索进程负责完成内容的交付,这个功能类似IPFS的bitswap。swap: swarm accounting protocol 会对peer之间的带宽进行审计，并跟踪流入和流出 两个方向的数据检索。如果两者两个peer之间有特别不对等的服务，则需要付费。
+
+> 为数据付费
+并且为每一个数据块交易付费是不可行的。甚至是批量付费也会造成区块膨胀。为了不用把每一次支付上链，SWAP引入了一个 chequebook 智能合约：chequebook 在多个swarm 节点之间传递，peer可以在任意时刻结账，账单是累积的，只有最后一个账单需要结账并上链。
+SWAP 会很快支持 payment channel 。
+chequebook 和 payment channel 各有优缺点。
+
++ 内容存储
+> 延迟交付和存储证明，以太坊这里成为保管证明:proof of custody。SWAP保证热点数据的检索，但没有保证冷门数据的持久可用。proof of custody解决这一问题。基本的想法是：swarm存储节点提前提交一部分押金，持续一段时间，向swarm存储节点发起挑战，节点需要证明数据仍然是可用的。每一次 proof of custody 都向swarm存储节点释放一部分费用。需要注意的是 proof of custody 只是一个很小的消息。
+
+这样的延迟支付构成一个第三方保管的条件支付合约：费用预先支付，但是暂由第三方保管，当且仅当（条件）收到一个有效的proof of custody时，才真正支付费用。
+
+上面的过程可以直接在off-chain完成，并和 payment channel 结合在一起。这里需要一个能够理解存储证明的判断合约即可。
+
+如果swarm存储节点丢失数据，则会失去收入。
+
+为了激烈节点完成存储，swarm引入一个保险机制来惩罚没有遵守存储承诺的节点。
+
+SWEAR ：保证数据的归档存储
+
+SWINDLE ：数据丢失的诉讼。
+
+> 存储合约和负激励
+
+
+
+
