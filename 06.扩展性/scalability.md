@@ -15,6 +15,9 @@
 2. bitcoin-NG      （onchain）
 3. sharding        （onchain）
 
+
+
+
 onchain的扩展方案：
 1. 一个基本提高扩展性的方法是：将领导者选举（通过工作量证明随机且偶尔执行）与交易序列化(交易打包)解耦。  
 + Bitcoin-NG：
