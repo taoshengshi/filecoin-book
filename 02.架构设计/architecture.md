@@ -27,8 +27,7 @@ Philosophy
 机器验证的安全（Machine-checked security）：《Proving confidentiality in a file system using DISKSEC》
 
 
-##架构演进
-
+##   架构演进
 
 ![decentralizedarch](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/blockchainNG/decentralizedarch.png?raw=true)
 
@@ -43,6 +42,53 @@ Philosophy
 ![blokchaindesignflow](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/blockchainNG/blokchaindesignflow.png?raw=true)
 
 
+##   架构案例
+
+![bitcoincorearch](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/blockchainNG/bitcoincorearch.png?raw=true)
+
+![blockstack1](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/blockchainNG/blockstack1.png?raw=true)
+
+![blockstack2](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/blockchainNG/blockstack2.png?raw=true)
+
+> Overview of Blockstack’s architecture. Blockchain records give (name, hash) mappings. Hashes are looked up in routing layer to discover routes to data. Data, signed by name owner’s public-key, is stored in cloud storage.
+
+![siaarch](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/blockchainNG/siaarch.png?raw=true)
+
+
+![filecoinarch](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/blockchainNG/filecoinarch.png?raw=true)
+
+
+
+![filecoin1](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/blockchainNG/filecoin1.png?raw=true)
+
+
+![filecoin2](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/blockchainNG/filecoin2.png?raw=true)
+
+
+
+![Datum](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/blockchainNG/Datum.png?raw=true)
+
+
+![Tahoe-LAFS](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/blockchainNG/Tahoe-LAFS.png?raw=true)
+
+
+![enigma](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/blockchainNG/enigma.png?raw=true)
+
+
+![eosarch](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/blockchainNG/eosarch.png?raw=true)
+
+
+![ethswarm](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/blockchainNG/ethswarm.png?raw=true)
+
+
+![web30stack](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/blockchainNG/web30stack.png?raw=true)
+
+
+
+
+
+[Decentralized Markets for Data and Artificial Intelligence](https://www.slideshare.net/DimitriDeJonghe/decentralized-markets-for-data-and-artificial-intelligence).
+    
 
 https://ethfans.org/posts/blockchain-infrastructure-landscape-a-first-principles
 http://8btc.com/doc-view-1184.html
