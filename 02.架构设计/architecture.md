@@ -2,7 +2,7 @@
 
 
 
-架构思考：
+架构思考：   
 目前，我们处于区块链演进的一个关键节点上。
 
 比特币的核心创新是什么？
@@ -53,42 +53,42 @@ Philosophy
 
 ![three](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/blockchainNG/three.png?raw=true)
 
-追求“安全”与“去中心化”则无法达到“可扩展性”
-追求“可扩展性”与“去中心化”则需要牺牲“安全”
-追求“可扩展性”与“安全”则无法实现“去中心化”
+追求“安全”与“去中心化”则无法达到“可扩展性”   
+追求“可扩展性”与“去中心化”则需要牺牲“安全”   
+追求“可扩展性”与“安全”则无法实现“去中心化”   
 
 
 ##   胖协议
 
-这是考虑互联网和区块链差异的一种方法。上一代的共享协议（TCP / IP，HTTP，SMTP等）产生了不可估量的价值，但其中大部分被捕获并重新聚合在应用层上，主要是数据形式（认为Google ，Facebook等）。就价值如何分配而言，互联网栈由“瘦”协议和“胖”应用程序组成。随着市场的发展，我们了解到投资于应用产生高回报，而直接投资于协议技术通常产生低回报。
+这是考虑互联网和区块链差异的一种方法。上一代的共享协议（TCP / IP，HTTP，SMTP等）产生了不可估量的价值，但其中大部分被捕获并重新聚合在应用层上，主要是数据形式（认为Google ，Facebook等）。就价值如何分配而言，互联网栈由“瘦”协议和“胖”应用程序组成。随着市场的发展，我们了解到投资于应用产生高回报，而直接投资于协议技术通常产生低回报。    
 
 ![fat1](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/blockchainNG/fat1.png?raw=true)
 
 协议和应用程序之间的这种关系在区块链应用程序堆栈中相反。值集中在共享协议层，并且只有一部分值分布在应用程序层。这是一个包含“胖”协议和“瘦”应用程序的堆栈。
 
-我们在两个占统治地位的区块链网络比特币和以太坊看到了这一点。比特币网络拥有10亿美元的市值，但最大的顶级公司价值最多只有几亿美元，而大多数公司可能被“商业基础”标准高估。类似的，Ethereum甚至在真正的突破性应用出现之前，仅在其公开发布一年之后才拥有了1亿美元的市值。
+我们在两个占统治地位的区块链网络比特币和以太坊看到了这一点。比特币网络拥有10亿美元的市值，但最大的顶级公司价值最多只有几亿美元，而大多数公司可能被“商业基础”标准高估。类似的，Ethereum甚至在真正的突破性应用出现之前，仅在其公开发布一年之后才拥有了1亿美元的市值。    
 ![fat2](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/blockchainNG/fat2.png?raw=true)
 
 
 ##   区块链：开放成员关系下的状态机复制
 
-PBFT的缺点：
-开放成员关系
-数百副本的扩展性
-区块冲突
-交易提交速率
+PBFT的缺点：    
+开放成员关系    
+数百副本的扩展性    
+区块冲突    
+交易提交速率    
 
-强一致 和 概率一致
-比特币的中本聪共识是一种概率一致性
-强一致性的优点：
-无需工作量证明
-无需等待提交完成
-前向安全
+强一致 和 概率一致    
+比特币的中本聪共识是一种概率一致性    
+强一致性的优点：    
+无需工作量证明   
+无需等待提交完成    
+前向安全   
 
 
 ## 中本聪共识
 
-运行比特币网络的步骤如下：
+运行比特币网络的步骤如下：    
 1) 新的交易向全网进行广播；
 2) 每一个节点都将收到的交易信息纳入一个区块中；
 3) 每个节点都尝试在自己的区块中找到一个具有足够难度的工作量证明；
@@ -96,17 +96,17 @@ PBFT的缺点：
 5) 当且仅当包含在该区块中的所有交易都是有效的且之前未存在过的，其他节点才认同该区块的有效性；
 6) 其他节点表示他们接受该区块，而表示接受的方法，则是在跟随该区块的末尾，制造新的区块以延长该链条，而将被接受区块的随机散列值视为先于新区快的随机散列值。
 
-共识的基本问题：
-Who should produce the next block of updates to apply to the database?
-谁可以像数据库中添加下一个区块？
-When should the next block be produced?
-什么时候可以生产下一个区块？
-What transactions should be included in the block?
-区块中应该包含哪些交易？
-How are changes to the protocol applied?
-协议如何应用更新？
-How should competing transaction histories be resolved?
-如何解决竞争的交易历史？
+共识的基本问题：   
+Who should produce the next block of updates to apply to the database?    
+谁可以像数据库中添加下一个区块？   
+When should the next block be produced?   
+什么时候可以生产下一个区块？   
+What transactions should be included in the block?   
+区块中应该包含哪些交易？   
+How are changes to the protocol applied?    
+协议如何应用更新？   
+How should competing transaction histories be resolved?    
+如何解决竞争的交易历史？   
 
 
 ##   架构演进
