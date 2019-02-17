@@ -15,4 +15,4 @@
 
 在分布式系统中，并发和互斥是硬币的两面。并行和并发一直是分布式系统追求的目标，而区块链用一个全球串行的系统，是一种倒退还是进步？互斥让世界更简单，并发让世界更美好，本文梳理了分布式系统中并发和互斥的历史：《Mastering Concurrent Computing Through Sequential Thinking- A Half-century Evolution》。
 
-
+《Recent Results in Scalable Multi-Party Computation》
