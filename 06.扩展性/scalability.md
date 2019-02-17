@@ -61,6 +61,10 @@ bitcoin-NG的关键在于：
 + https://cloud.tencent.com/developer/news/296106
 + https://www.jianshu.com/p/8627df6f911d
 
+
+https://raiden.network/101.html
+
+
 ## 参考文献
 + SHEHAR BANO 等 《The Road to Scalable Blockchain Designs》
 + 潘晨 等 《区块链可扩展性研究：问题与方法》
