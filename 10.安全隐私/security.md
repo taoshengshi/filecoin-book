@@ -34,6 +34,29 @@ Heilman在2015年发表《Eclipse Attacks on Bitcoin’s Peer-to-Peer Network》
 ![eclipseattacks](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/blockchainNG/eclipseattacks.png?raw=true)
 
 
+[A Survey on Security and Privacy Issues of Bitcoin](https://arxiv.org/pdf/1706.00916.pdf)     
+
+[DHT网络eclipse攻击]()   
+[Tampering with the Delivery of Blocks and Transactions in Bitcoin](https://eprint.iacr.org/2015/578.pdf)   
+[Hijacking Bitcoin: Routing Attacks on Cryptocurrencies](https://btc-hijack.ethz.ch/)   
+[The Bitcoin Peers Network](https://www.p2pfisy.com/wp-content/uploads/2017/04/P2PFISY2016_paper_32-min.pdf)   
+[The Bitcoin P2P Network](https://www.researchgate.net/publication/260593322_The_Bitcoin_P2P_Network)   
+[Zerocash](http://zerocash-project.org/)   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
 
 
 

@@ -17,3 +17,13 @@
 
 《Proving Possession and Retrievability within a Cloud Environment: A Comparative Survey》这是一篇综述。
 
+[Scalable and Efficient Provable Data Possession](https://eprint.iacr.org/2008/114.pdf)   
+[Permacoin: Repurposing Bitcoin Work for Data Preservation](http://soc1024.ece.illinois.edu/permacoin.pdf)   
+[Filecoin: A Decentralized Storage Network](https://filecoin.io/filecoin.pdf)   
+[Sia: Simple Decentralized Storage](https://sia.tech/sia.pdf)   
+[A Survey on Provable Data Possession in Cloud Computing](https://www.ijert.org/research/a-survey-on-provable-data-possession-in-cloud-computing-systems-IJERTV5IS031055.pdf)   
+[swap, swear and swindle incentive system for swarm](https://ethersphere.github.io/swarm-home/ethersphere/orange-papers/1/sw%5E3.pdf)   
+[Syndicate: virtual cloud storage through provider composition](https://dl.acm.org/citation.cfm?id=2609639)   
+[Towards Blockchain-based Auditable Storage and Sharing of IoT Data](https://arxiv.org/pdf/1705.08230)   
+[A Distributed Cloud Robotics Middleware Architecture for Trust-minimized](https://www.zurich.ibm.com/pdf/robotics/paper.pdf)   
+[Provable Data Possession at Untrusted Stores](https://eprint.iacr.org/2007/202.pdf)   

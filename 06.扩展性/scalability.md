@@ -73,4 +73,14 @@ https://raiden.network/101.html
 
 ## to read
 + 《Sidechains: Decoupled Consensus Between Chains》
-
+[A Fast and Scalable Payment Network with Bitcoin Duplex Micropayment Channels](https://www.tik.ee.ethz.ch/file/716b955c130e6c703fac336ea17b1670/duplex-micropayment-channels.pdf)   
+[On Trees, Chains and Fast Transactions in the Blockchain](https://eprint.iacr.org/2016/545.pdf)     
+[Teechan: Payment Channels Using Trusted Execution Environments](http://www.cs.cornell.edu/People/egs/papers/teechan.pdf)   
+[Extending Existing Blockchains with Virtualchain](https://www.zurich.ibm.com/dccl/papers/nelson_dccl.pdf)   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   

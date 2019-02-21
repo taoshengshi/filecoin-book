@@ -198,7 +198,7 @@ Application design with and without Syndicate.
 
 [Decentralized Markets for Data and Artificial Intelligence](https://www.slideshare.net/DimitriDeJonghe/decentralized-markets-for-data-and-artificial-intelligence)
     
-##   零知识证明
+##   零知识证明   
 
 机密性confidentiality：通过加密消息来防止攻击者读取消息内容。
 完整性integrity：攻击者不能读取，但能修改消息中的某些位。技术虽然不能避免篡改，但可以检测到篡改。能够检测篡改的协议称为提供了数据完整性。
@@ -206,16 +206,83 @@ Application design with and without Syndicate.
 可用性：
 认证：
 
-##   跨链
+##   跨链   
 BM说：
 Inter-blockchain communication is the ultimate scalability feature — the holy grail — that the industry has been searching for with proposals such as side-chains, plasma, and sharding.
 
-##   区块图
+##   区块图    
 
+
+
+##   区块链存储    
+
+[Named Data Networking](https://named-data.net/)   
+[MaidSafe Distributed File System](http://docs.maidsafe.net/Whitepapers/pdf/MaidSafeDistributedFileSystem.pdf/)   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+
+
+
+##   货币    
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[]()   
+[Demystifying Incentives in the Consensus Computer](https://eprint.iacr.org/2015/702.pdf)   
+[Centrally Banked Cryptocurrencies](https://eprint.iacr.org/2015/502.pdf) 
 
 ##   一些重要的白皮书
 
 
+
+[TumbleBit: An Untrusted Bitcoin-Compatible Anonymous Payment Hub](https://cs-people.bu.edu/heilman/tumblebit/)   
+[The Internet Computer | DFINITY](https://dfinity.org/)   
+[Plasma: Scalable Autonomous Smart Contracts](https://plasma.io/)   
+[BigchainDB: The blockchain database](https://www.bigchaindb.com/)   
+[A Decentralized Data Exchange Protocol to Unlock Data for AI](https://oceanprotocol.com/) ([白皮书](https://oceanprotocol.com/tech-whitepaper.pdf))   
+[Decentralized Cloud Computing Blockchain Network](https://aelf.io/)   
+[SAFE Network:Secure Access For Everyone](https://safenetwork.org/)   
+[MaidSafe](https://maidsafe.net/)   
+[SafeCoin](https://safecoin.org/)   
+[Decentralized Cloud Storage — Storj](https://storj.io/)   
+[Metadisk: Blockchain-Based Decentralized File Storage Application](https://storj.io/metadisk.pdf)   
+[Truebit Protocol: A scalable verification Solution for Blockchains](https://truebit.io/)   
+[京东区块链白皮书]()   
+[腾讯区块链白皮书]()   
+[华为区块链白皮书]()   
+[腾讯区块链白皮书]()  
+[Steem An incentivized, blockchain-based, public content platform](https://steem.com/steem-whitepaper.pdf)   
+[Blockstack](https://blockstack.org/)   
+[Corda](https://www.corda.net/)   
+[Polkadot](https://polkadot.network/)   
+[Kyber Network](https://kyber.network/)       
+[Cosmos Network: Internet of Blockchains](https://cosmos.network/)   
+[The Ocean Protocol](https://oceanprotocol.com/protocol/)   
+[Meet the Tangle](https://www.iota.org/research/meet-the-tangle)   
+[golem:Computing Power Shared](https://golem.network/)   
+[Namecoin](https://namecoin.org/)   
+[Morpheo](http://morpheo.co/)   
+[]()   
+[]()   
+[]()   
+[]()   
   
 https://ethfans.org/posts/blockchain-infrastructure-landscape-a-first-principles
 http://8btc.com/doc-view-1184.html

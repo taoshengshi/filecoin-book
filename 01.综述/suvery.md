@@ -16,3 +16,23 @@
 在分布式系统中，并发和互斥是硬币的两面。并行和并发一直是分布式系统追求的目标，而区块链用一个全球串行的系统，是一种倒退还是进步？互斥让世界更简单，并发让世界更美好，本文梳理了分布式系统中并发和互斥的历史：《Mastering Concurrent Computing Through Sequential Thinking- A Half-century Evolution》。
 
 《Recent Results in Scalable Multi-Party Computation》
+
+
+[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)    
+[There’s No Free Lunch, Even Using Bitcoin: Tracking the Popularity and Profits of Virtual Currency Scams](https://fc15.ifca.ai/preproceedings/paper_75.pdf)   
+[Bitcoin and Beyond: A Technical Survey on Decentralized Digital Currencies](https://eprint.iacr.org/2015/464.pdf)   
+[Survey on Blockchain Technologies and Related Services](http://www.meti.go.jp/english/press/2016/pdf/0531_01f.pdf)   
+[Trust-to-Trust Design of a New Internet](https://muneebali.com/thesis)   
+[Bootstrapping Trust in Distributed Systems with Blockchains](https://www.usenix.org/system/files/login/articles/login_fall16_10_ali.pdf)   
+[Analysis of the Blockchain Protocol in Asynchronous Networks](https://eprint.iacr.org/2016/454.pdf)   
+[Speed-Security Tradeoffs in Blockchain Protocols](https://eprint.iacr.org/2015/1019.pdf)   
+[平行区块链:概念、方法与内涵解析](http://www.aas.net.cn/CN/abstract/abstract19148.shtml)   
+[Database Perspectives on Blockchains](https://arxiv.org/abs/1803.06015)   
+[An empirical study of Namecoin and lessons for decentralized namespace design](http://randomwalker.info/publications/namespaces.pdf)   
+[A Token Mechanism for Growing the Blockstack Ecosystem of Decentralized Applications](https://blockstack.com/tokenpaper.pdf)   
+
+
+
+
+
+ [Arvind Narayanan](http://randomwalker.info/)    
