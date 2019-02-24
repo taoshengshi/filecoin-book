@@ -279,8 +279,8 @@ Inter-blockchain communication is the ultimate scalability feature — the h
 [golem:Computing Power Shared](https://golem.network/)   
 [Namecoin](https://namecoin.org/)   
 [Morpheo](http://morpheo.co/)   
-[]()   
-[]()   
+[Quorum:Ethereum for enterprise applications](https://www.jpmorgan.com/global/Quorum)   
+[µRaiden](https://microraiden.readthedocs.io/en/latest/)   
 []()   
 []()   
   
