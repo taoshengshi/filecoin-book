@@ -50,6 +50,7 @@ offchain 的支付通道通过将大量交易离线处理，同时将区块链�
 
 闪电网络：RSMC和HTLC。
 
+
 文献：《Off-chaining Models and Approaches to Off-chain Computations》首次提出off-chain的概念模型分类。主要包括off-chain计算、off-chain存储、和混合off-chain模式。
 文章重点讨论了off-chain计算及其分类：
 + categories Verifiable Computation
@@ -73,6 +74,7 @@ https://raiden.network/101.html
 + Chenxing Li等 《Scaling Nakamoto Consensus to Thousands of Transactions per Second》
 
 ## to read
+
 + 《Sidechains: Decoupled Consensus Between Chains》
 [A Fast and Scalable Payment Network with Bitcoin Duplex Micropayment Channels](https://www.tik.ee.ethz.ch/file/716b955c130e6c703fac336ea17b1670/duplex-micropayment-channels.pdf)   
 [On Trees, Chains and Fast Transactions in the Blockchain](https://eprint.iacr.org/2016/545.pdf)     
