@@ -27,3 +27,4 @@
 [Towards Blockchain-based Auditable Storage and Sharing of IoT Data](https://arxiv.org/pdf/1705.08230)   
 [A Distributed Cloud Robotics Middleware Architecture for Trust-minimized](https://www.zurich.ibm.com/pdf/robotics/paper.pdf)   
 [Provable Data Possession at Untrusted Stores](https://eprint.iacr.org/2007/202.pdf)   
+[PPIO a programmable decentralized storage and delivery network](https://github.com/PPIO/Whitepaper/blob/master/WhitePaper_EN.pdf)

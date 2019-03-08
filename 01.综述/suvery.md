@@ -32,6 +32,7 @@
 [A Token Mechanism for Growing the Blockstack Ecosystem of Decentralized Applications](https://blockstack.com/tokenpaper.pdf)   
 
 
+[quorum](https://github.com/jpmorganchase/quorum)
 
 [Blockchain Papers](https://github.com/decrypto-org/blockchain-papers)   
 [Blockchain Research Resources](https://docs.google.com/document/d/1J8hehbnZWzcIUMQcxMiGbjz86wDu3zDFF7UtkR0XjGE/edit#heading=h.ibfb9gi7twee)   
