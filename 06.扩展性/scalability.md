@@ -14,7 +14,13 @@
 文献《On or Off the Blockchain? Insights on Off-Chaining Computation and Data》也有不错的综述。
 
 
-下面介绍当前3类主流的、提升区块链交易吞吐量的方案。
+下面介绍当前3类主流的、提升区块链交易吞吐量的方案。总体来说，通过修改共识算来提高扩展性不是实践中可以考虑的方法。
+基于区块链的广域网模型，通过PoS/或者algrand类似的算法来提高出块速度，出块速度太快，不无法抵御广域网的传播延迟，
+如果限制网络的规模，则又回到传统的集群模型，可以适用于联盟链的规模。所以我认为通过修改共识算法来提高扩展性在公链中是不可行的。
+
+那么共识的发展，应该是从无用共识到有用共识，或者是基于PoS的有用共识。这个才是共识研究的方向。
+
+而提高扩展性，可以在下面三个方向上继续深入。
  
 ##  bitcoin-NG      （onchain）
 
@@ -34,7 +40,7 @@ bitcoin-NG的关键在于：
  bitcoin-NG的leader选举仍然采用原来的工作量证明算法。
 
 
-##  sharding        （onchain）
+##  sharding & DAG        （onchain）
 Onchain的第二个想法是：改变区块链线性增长链的方式。
 + 通过放弃“区块”和“链”的概念来并行化出块过程。
 > 文献《Blockchain-Free Cryptocurrencies A Rational Framework for Truly Decentralised Fast Transactions》 提出的框架通过放弃“区块”和“链”的概念来并行化这个过程（支持交易的图式交叉验证，而不是线性，可以理解为“区块图”）。每笔交易确认两笔交易（其双亲）并包含一些有效负荷（例如，加密货币）和工作量证明。
