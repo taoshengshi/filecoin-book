@@ -87,12 +87,12 @@ https://raiden.network/101.html
 [Teechan: Payment Channels Using Trusted Execution Environments](http://www.cs.cornell.edu/People/egs/papers/teechan.pdf)   
 [Extending Existing Blockchains with Virtualchain](https://www.zurich.ibm.com/dccl/papers/nelson_dccl.pdf)   
 [比特币区块链扩容技术研究]()   
-[]()   
-[]()   
-[]()   
-[]()   
-[]()   
-[]()   
+[Understanding the Lightning Network, Part 1: Building a Bidirectional Bitcoin Payment Channel](https://bitcoinmagazine.com/articles/understanding-the-lightning-network-part-building-a-bidirectional-payment-channel-1464710791/)   
+[Understanding the Lightning Network, Part 2: Creating the Network](https://bitcoinmagazine.com/articles/understanding-the-lightning-network-part-creating-the-network-1465326903/)   
+[Understanding the Lightning Network, Part 3: Completing the Puzzle and Closing the Channel](https://bitcoinmagazine.com/articles/understanding-the-lightning-network-part-completing-the-puzzle-and-closing-the-channel-1466178980/)   
+[Lightning Network](http://lightning.network/)   
+[Raiden Network](https://raiden.network/101.html)   
+[bitcoin micropayment-channel](https://bitcoin.org/en/developer-guide#micropayment-channel)   
 
 
 #### lighting network technical summary 翻译
