@@ -18,5 +18,3 @@ Note : the format of this doc refer from :https://markdown-it.github.io/
 13. [内容分发网络](https://github.com/stone-note/blockchainNG/blob/master/13.%E5%86%85%E5%AE%B9%E5%88%86%E5%8F%91%E7%BD%91%E7%BB%9C/cdn.md)
 
 
-## 资源
-[Aleksandar Kuzmanovic ](http://networks.cs.northwestern.edu/website/index-a.html)    

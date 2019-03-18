@@ -37,4 +37,8 @@
 [Blockchain Papers](https://github.com/decrypto-org/blockchain-papers)   
 [Blockchain Research Resources](https://docs.google.com/document/d/1J8hehbnZWzcIUMQcxMiGbjz86wDu3zDFF7UtkR0XjGE/edit#heading=h.ibfb9gi7twee)   
 [Arvind Narayanan](http://randomwalker.info/)       
-[Mining the Web with Webcoin](http://networks.cs.northwestern.edu/website/publications/webcoin/conext18-final22.pdf)   
+[Mining the Web with Webcoin](http://networks.cs.northwestern.edu/website/publications/webcoin/conext18-final22.pdf)    
+
+
+[Aleksandar Kuzmanovic ](http://networks.cs.northwestern.edu/website/index-a.html)    
+  
