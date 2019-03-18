@@ -22,7 +22,7 @@
 [The Many Faces of Consensus in Distributed Systems](http://fortissimo.unice.fr/twiki/pub/Minfo/DistTD5/Themanyfacesofconsensusindistributedsystems.pdf)   
 [Proofs of Useful Work](https://eprint.iacr.org/2017/203.pdf)   
 [The Quest for Scalable Blockchain Fabric: Proof-of-Work vs. BFT Replication](https://allquantor.at/blockchainbib/pdf/vukolic2015quest.pdf)  
-
+[Blockchain Consensus Protocols in the Wild](https://arxiv.org/pdf/1707.01873.pdf)
 
 ##  FileCoin 共识机制
 参考文档《》

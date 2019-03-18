@@ -16,3 +16,7 @@ Note : the format of this doc refer from :https://markdown-it.github.io/
 11. [边缘计算](https://github.com/stone-note/blockchainNG/blob/master/11.%E8%BE%B9%E7%BC%98%E8%AE%A1%E7%AE%97/edgecomputing.md)
 12. [物联网](https://github.com/stone-note/blockchainNG/blob/master/12.%E7%89%A9%E8%81%94%E7%BD%91/iot.md)
 13. [内容分发网络](https://github.com/stone-note/blockchainNG/blob/master/13.%E5%86%85%E5%AE%B9%E5%88%86%E5%8F%91%E7%BD%91%E7%BB%9C/cdn.md)
+
+
+## 资源
+[Aleksandar Kuzmanovic ](http://networks.cs.northwestern.edu/website/index-a.html)    
