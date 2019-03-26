@@ -93,11 +93,17 @@ https://raiden.network/101.html
 [Lightning Network](http://lightning.network/)   
 [Raiden Network](https://raiden.network/101.html)   
 [bitcoin micropayment-channel](https://bitcoin.org/en/developer-guide#micropayment-channel) 
+
 [bloXroute: A Scalable Trustless Blockchain Distribution Network](https://bloxroute.com/wp-content/uploads/2018/03/bloXroute-whitepaper.pdf)  
 [Towards Massive On-Chain Scaling: Presenting Our Block Propagation Results With Xthin](https://medium.com/@peter_r/towards-massive-on-chain-scaling-presenting-our-block-propagation-results-with-xthin-da54e55dc0e4)
 [Information Propagation in the Bitcoin Network](https://www.tik.ee.ethz.ch/file/49318d3f56c1d525aabf7fda78b23fc0/P2P2013_041.pdf)
 [Data Propagation](http://www.bitcoinstats.com/network/propagation/)
 [Net Neutrality: Unexpected Solution to Blockchain Scaling](https://queue.acm.org/detail.cfm?id=3319534)
+
+[BTC Relay](http://btcrelay.org/)
+http://bitcoinfibre.org/
+[Bitcoin Relay Network](http://bitcoinfibre.org/public-network.html)
+[FIBRE Fast Internet Bitcoin Relay Engine](http://bitcoinfibre.org/)
 
 当前主要的区块链扩容方案主要分为两个层次，即链上扩容（Layer 1扩容）和链下扩容（Layer 2扩容）。
 
