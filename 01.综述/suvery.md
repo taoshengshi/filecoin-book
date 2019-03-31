@@ -43,5 +43,17 @@
 [Aleksandar Kuzmanovic ](http://networks.cs.northwestern.edu/website/index-a.html)       
 [Blockchains: Past, Present, and Future](https://dl.acm.org/citation.cfm?doid=3196959.3197545)
 
-新的研究进展：
-[ForkBase: An Efficient Storage Engine for Blockchain and Forkable Applications](http://www.vldb.org/pvldb/vol11/p1137-wang.pdf)
+可验证计算： 
+[Angela: A Sparse, Distributed, and Highly Concurrent Merkle Tree](https://people.eecs.berkeley.edu/~kubitron/courses/cs262a-F18/projects/reports/project1_report_ver3.pdf)
+[Revocation Transparency](https://github.com/google/trillian/blob/master/docs/papers/RevocationTransparency.pdf)
+[Verifiable DataStructures](https://github.com/google/trillian/blob/master/docs/papers/VerifiableDataStructures.pdf)   
+[Verifiable Oblivious Storage](https://eprint.iacr.org/2014/153.pdf)       
+[IntegriDB: Verifiable SQL for Outsourced Databases](https://user.eng.umd.edu/~cpap/published/IntegriDB.pdf)    
+[Introduction and overview of verifiable computation ](https://cyber.biu.ac.il/wp-content/uploads/2017/01/1-2.pdf)     
+[Overview of Verifiable Computing Techniques Providing Private and Public Verification](https://pdfs.semanticscholar.org/9e91/2a364cdbb39a25471f7040b2492586ca364f.pdf)     
+[Towards Verifiable File Search on the Cloud](http://www.cs.ucf.edu/~xinwenfu/paper/Conferences/14_CNS_Towardsverifiablefilesearchonthecloud.pdf)     
+[Interactive Proofs: Motivation and Model](http://people.cs.georgetown.edu/jthaler/summer-school-talk-08.pdf)     
+[Publicly Verifiable Secure Cloud Storage for Dynamic Data Using Secure Network Coding](https://www.isical.ac.in/~binanda_r/publications/AsiaCCS2016.pdf)     
+[Efficient Proofs of Retrievability with Public Verifiability for Dynamic Cloud Storage](https://arxiv.org/pdf/1611.03982.pdf)     
+新的研究进展：     
+[ForkBase: An Efficient Storage Engine for Blockchain and Forkable Applications](http://www.vldb.org/pvldb/vol11/p1137-wang.pdf)     
