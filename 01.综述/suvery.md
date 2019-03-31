@@ -40,5 +40,8 @@
 [Mining the Web with Webcoin](http://networks.cs.northwestern.edu/website/publications/webcoin/conext18-final22.pdf)    
 
 
-[Aleksandar Kuzmanovic ](http://networks.cs.northwestern.edu/website/index-a.html)    
-  
+[Aleksandar Kuzmanovic ](http://networks.cs.northwestern.edu/website/index-a.html)       
+[Blockchains: Past, Present, and Future](https://dl.acm.org/citation.cfm?doid=3196959.3197545)
+
+新的研究进展：
+[ForkBase: An Efficient Storage Engine for Blockchain and Forkable Applications](http://www.vldb.org/pvldb/vol11/p1137-wang.pdf)
