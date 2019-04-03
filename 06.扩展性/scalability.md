@@ -81,7 +81,8 @@ https://raiden.network/101.html
 
 ## to read
 
-+ 《Sidechains: Decoupled Consensus Between Chains》
++ 《Sidechains: Decoupled Consensus Between Chains》    
+[The Stellar Consensus Protocol:A Federated Model for Internet-level Consensus](https://www.stellar.org/papers/stellar-consensus-protocol.pdf)
 [A Fast and Scalable Payment Network with Bitcoin Duplex Micropayment Channels](https://www.tik.ee.ethz.ch/file/716b955c130e6c703fac336ea17b1670/duplex-micropayment-channels.pdf)   
 [On Trees, Chains and Fast Transactions in the Blockchain](https://eprint.iacr.org/2016/545.pdf)     
 [Teechan: Payment Channels Using Trusted Execution Environments](http://www.cs.cornell.edu/People/egs/papers/teechan.pdf)   
