@@ -82,7 +82,15 @@ https://raiden.network/101.html
 ## to read
 
 + 《Sidechains: Decoupled Consensus Between Chains》    
-[The Stellar Consensus Protocol:A Federated Model for Internet-level Consensus](https://www.stellar.org/papers/stellar-consensus-protocol.pdf)
+[Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol](https://eprint.iacr.org/2016/889.pdf)
+[Snow White: Robustly Reconfigurable Consensus and Applications to Provably Secure Proof of Stake](https://fc19.ifca.ai/preproceedings/141-preproceedings.pdf)      
+[The Stellar Consensus Protocol:A Federated Model for Internet-level Consensus](https://www.stellar.org/papers/stellar-consensus-protocol.pdf)     
+[Simplified SCP](http://www.scs.stanford.edu/~dm/blog/simplified-scp.html)    
+[Formal Barriers to Longest-Chain Proof-of-Stake Protocols](https://arxiv.org/pdf/1809.06528.pdf)     
+[Verifiable Delay Functions](https://eprint.iacr.org/2018/601.pdf)   
+[Efficient verifiable delay functions](https://eprint.iacr.org/2018/623.pdf)    
+[The Ripple Protocol Consensus Algorithm](https://ripple.com/files/ripple_consensus_whitepaper.pdf)    
+[VDF Research Effort](https://vdfresearch.org/)    
 [A Fast and Scalable Payment Network with Bitcoin Duplex Micropayment Channels](https://www.tik.ee.ethz.ch/file/716b955c130e6c703fac336ea17b1670/duplex-micropayment-channels.pdf)   
 [On Trees, Chains and Fast Transactions in the Blockchain](https://eprint.iacr.org/2016/545.pdf)     
 [Teechan: Payment Channels Using Trusted Execution Environments](http://www.cs.cornell.edu/People/egs/papers/teechan.pdf)   
@@ -107,6 +115,8 @@ http://bitcoinfibre.org/
 [FIBRE Fast Internet Bitcoin Relay Engine](http://bitcoinfibre.org/)
 
 当前主要的区块链扩容方案主要分为两个层次，即链上扩容（Layer 1扩容）和链下扩容（Layer 2扩容）。
+
+ 
 
 #### lighting network technical summary 翻译
 

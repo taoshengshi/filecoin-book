@@ -57,3 +57,18 @@
 [Efficient Proofs of Retrievability with Public Verifiability for Dynamic Cloud Storage](https://arxiv.org/pdf/1611.03982.pdf)     
 新的研究进展：     
 [ForkBase: An Efficient Storage Engine for Blockchain and Forkable Applications](http://www.vldb.org/pvldb/vol11/p1137-wang.pdf)     
+
+[A Survey on Consensus Mechanisms and Mining Strategy Management in Blockchain Networks](https://arxiv.org/pdf/1805.02707.pdf)    
+[SoK: Consensus in the Age of Blockchains](https://arxiv.org/pdf/1711.03936.pdf)    
+[SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies](https://www.ieee-security.org/TC/SP2015/papers-archived/6949a104.pdf)    
+[SoK: A Consensus Taxonomy in the Blockchain Era](https://eprint.iacr.org/2018/754.pdf)    
+[SoK: unraveling Bitcoin smart contracts](https://eprint.iacr.org/2018/192.pdf)    
+[SoK: Secure Messaging](http://www.jbonneau.com/doc/UDBFPGS15-IEEESP-secure_messaging_sok.pdf)    
+[SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies](http://wws.princeton.edu/system/files/research/documents/Felten_SoK.pdf)    
+[]()    
+[]()    
+[]()    
+[]()    
+[]()    
+[]()    
+
