@@ -85,7 +85,11 @@ https://raiden.network/101.html
 [Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol](https://eprint.iacr.org/2016/889.pdf)
 [Snow White: Robustly Reconfigurable Consensus and Applications to Provably Secure Proof of Stake](https://fc19.ifca.ai/preproceedings/141-preproceedings.pdf)      
 [The Stellar Consensus Protocol:A Federated Model for Internet-level Consensus](https://www.stellar.org/papers/stellar-consensus-protocol.pdf)     
-[Simplified SCP](http://www.scs.stanford.edu/~dm/blog/simplified-scp.html)    
+[Simplified SCP](http://www.scs.stanford.edu/~dm/blog/simplified-scp.html)      
+[The Stellar Consensus Protocol:talk at google](https://talksat.withgoogle.com/talk/the-stellar-consensus-protocol)     
+[Compounding of Wealth in Proof-of-Stake Cryptocurrencies](https://fc19.ifca.ai/preproceedings/161-preproceedings.pdf)    
+[Short Paper: I Can’t Believe It’s Not Stake! Resource Exhaustion Attacks on PoS](https://fc19.ifca.ai/preproceedings/180-preproceedings.pdf)    
+[The Stellar Consensus Protocol (SCP)](https://tools.ietf.org/pdf/draft-mazieres-dinrg-scp-05.pdf)    
 [Formal Barriers to Longest-Chain Proof-of-Stake Protocols](https://arxiv.org/pdf/1809.06528.pdf)     
 [Verifiable Delay Functions](https://eprint.iacr.org/2018/601.pdf)   
 [Efficient verifiable delay functions](https://eprint.iacr.org/2018/623.pdf)    
@@ -103,6 +107,13 @@ https://raiden.network/101.html
 [Raiden Network](https://raiden.network/101.html)   
 [bitcoin micropayment-channel](https://bitcoin.org/en/developer-guide#micropayment-channel) 
 
+
+
+
+[Blockchain Meets Database: Design and Implementation of a Blockchain Relational Database](https://arxiv.org/pdf/1903.01919.pdf)    
+
+[Monoxide: Scale Out Blockchain with Asynchronous Consensus Zones](https://www.usenix.org/system/files/nsdi19-wang-jiaping.pdf)     
+[Monoxide PPT](https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_wang-jiaping.pdf)     
 [bloXroute: A Scalable Trustless Blockchain Distribution Network](https://bloxroute.com/wp-content/uploads/2018/03/bloXroute-whitepaper.pdf)  
 [Towards Massive On-Chain Scaling: Presenting Our Block Propagation Results With Xthin](https://medium.com/@peter_r/towards-massive-on-chain-scaling-presenting-our-block-propagation-results-with-xthin-da54e55dc0e4)
 [Information Propagation in the Bitcoin Network](https://www.tik.ee.ethz.ch/file/49318d3f56c1d525aabf7fda78b23fc0/P2P2013_041.pdf)

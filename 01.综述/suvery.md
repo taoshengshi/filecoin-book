@@ -65,10 +65,12 @@
 [SoK: unraveling Bitcoin smart contracts](https://eprint.iacr.org/2018/192.pdf)    
 [SoK: Secure Messaging](http://www.jbonneau.com/doc/UDBFPGS15-IEEESP-secure_messaging_sok.pdf)    
 [SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies](http://wws.princeton.edu/system/files/research/documents/Felten_SoK.pdf)    
-[]()    
-[]()    
-[]()    
-[]()    
-[]()    
-[]()    
+[VAPOR: a Value-Centric Blockchain that is Scale-out, Decentralized, and Flexible by Design](http://fc19.ifca.ai/preproceedings/125-preproceedings.pdf)    
+[BAR Fault Tolerance](http://users.cs.northwestern.edu/~fabianb/classes/cs-443-w07/BAR.pdf)    
+
+[MTFS: Merkle Tree based File System](https://arxiv.org/pdf/1902.09100.pdf)   
+
+[The Shutdown Problem: How Does a Blockchain System End?](https://arxiv.org/pdf/1902.07254.pdf)      
+[Security and Privacy on Blockchain](https://arxiv.org/pdf/1903.07602.pdf)     
+[Sidechains and interoperability](https://arxiv.org/pdf/1903.04077.pdf)    
 

@@ -28,3 +28,13 @@
 [A Distributed Cloud Robotics Middleware Architecture for Trust-minimized](https://www.zurich.ibm.com/pdf/robotics/paper.pdf)   
 [Provable Data Possession at Untrusted Stores](https://eprint.iacr.org/2007/202.pdf)   
 [PPIO a programmable decentralized storage and delivery network](https://github.com/PPIO/Whitepaper/blob/master/WhitePaper_EN.pdf)
+[KopperCoin – A Distributed File Storage with Financial Incentives](https://www.gwern.net/docs/bitcoin/2016-kopp.pdf)    
+
+[Ultimate Guide to Filecoin: Breaking Down Filecoin Whitepaper & Economics](https://medium.com/swlh/ultimate-guide-to-filecoin-breaking-down-filecoin-whitepaper-economics-9212541a5895)
+[Proof of unique blockchain storage](https://bitslog.wordpress.com/2014/11/03/proof-of-local-blockchain-storage/)   
+[Proof of Replication](https://filecoin.io/proof-of-replication.pdf)    
+[Proof of Replication using Depth Robust Graphs ppt ](https://cyber.stanford.edu/sites/default/files/bpase_porep.pptx)    
+[Filecoin: A Decentralized Storage Network](https://filecoin.io/filecoin.pdf)    
+[Power Fault Tolerance](https://filecoin.io/power-fault-tolerance.pdf)   
+[Filecoin: protocol overview, the important results, and new open problems](https://www.youtube.com/watch?v=vyRZBeMtkrA&feature=youtu.be&t=1793)    
+[Proof of Replication using Depth Robust Graphs](https://www.youtube.com/watch?v=8_9ONpyRZEI)        
