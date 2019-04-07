@@ -31,7 +31,6 @@
 [An empirical study of Namecoin and lessons for decentralized namespace design](http://randomwalker.info/publications/namespaces.pdf)   
 [A Token Mechanism for Growing the Blockstack Ecosystem of Decentralized Applications](https://blockstack.com/tokenpaper.pdf)   
 
-
 [quorum](https://github.com/jpmorganchase/quorum)
 
 [Blockchain Papers](https://github.com/decrypto-org/blockchain-papers)   
@@ -55,6 +54,7 @@
 [Interactive Proofs: Motivation and Model](http://people.cs.georgetown.edu/jthaler/summer-school-talk-08.pdf)     
 [Publicly Verifiable Secure Cloud Storage for Dynamic Data Using Secure Network Coding](https://www.isical.ac.in/~binanda_r/publications/AsiaCCS2016.pdf)     
 [Efficient Proofs of Retrievability with Public Verifiability for Dynamic Cloud Storage](https://arxiv.org/pdf/1611.03982.pdf)     
+
 新的研究进展：     
 [ForkBase: An Efficient Storage Engine for Blockchain and Forkable Applications](http://www.vldb.org/pvldb/vol11/p1137-wang.pdf)     
 
