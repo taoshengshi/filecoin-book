@@ -74,3 +74,31 @@
 [Security and Privacy on Blockchain](https://arxiv.org/pdf/1903.07602.pdf)     
 [Sidechains and interoperability](https://arxiv.org/pdf/1903.04077.pdf)    
 
+https://www.cotnetwork.com/
+http://www.iprs.io/
+
+todo：
+[Databases and Hardware: The Beginning and Sequel of a Beautiful Friendship](http://www.vldb.org/pvldb/vol8/p2058-anastasia.pdf)    
+[When Query Authentication Meets Fine-Grained Access Control: A Zero-Knowledge Approach](https://xuc.me/file/slides/SIGMOD18.pdf)   
+[Towards Searchable and Verifiable Blockchain](https://xuc.me/file/slides/BlockDM19.pdf)    
+[GEM2 -Tree: A Gas-Efficient Structure for Authenticated Range Queries in Blockchain](https://xuc.me/file/paper/ICDE19b.pdf)    
+[vChain: Enabling Verifiable Boolean Range Queries over Blockchain Databases](https://xuc.me/file/paper/SIGMOD19.pdf)    
+    
+[A Survey of Two Verifiable Delay Functions](https://crypto.stanford.edu/~dabo/pubs/papers/VDFsurvey.pdf)
+Blockplane: A Global-Scale Byzantizing Middleware   
+Transaction Processing on Modern Hardware     
+https://books.google.com/books?id=k-GMDwAAQBAJ&pg=PA114&lpg=PA114&dq=Blockplane:+A+Global-Scale+Byzantizing+Middleware&source=bl&ots=LX9oLy_5KC&sig=ACfU3U2Y-qYs-3u48Ujg9y8NDXXYWsCZpA&hl=en&sa=X&ved=2ahUKEwjimYq4-sThAhVKxFQKHYvoDC4Q6AEwAXoECAMQAQ#v=onepage&q=Blockplane%3A%20A%20Global-Scale%20Byzantizing%20Middleware&f=false   
+
+https://medium.com/s/story/blockchain-is-a-semantic-wasteland-9450b6e5012    
+http://conferences.cis.umac.mo/icde2019/?page_id=516    
+https://flowchain.co/Flowchain-WhitePaper.pdf       
+
+https://msadoghi.github.io/
+https://blockchain.comp.hkbu.edu.hk/blockdm2019/    
+https://storj.io/storjv2.pdf    
+https://storj.io/metadisk.pdf   
+http://homepage.divms.uiowa.edu/~ghosh/blockchain.pdf    
+
+https://genaro-docs.oss-cn-shanghai.aliyuncs.com/genaro-yellow-paper.cn.pdf
+
+
