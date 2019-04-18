@@ -74,8 +74,7 @@
 [Security and Privacy on Blockchain](https://arxiv.org/pdf/1903.07602.pdf)     
 [Sidechains and interoperability](https://arxiv.org/pdf/1903.04077.pdf)    
 
-https://www.cotnetwork.com/
-http://www.iprs.io/
+
 
 todo：
 [Databases and Hardware: The Beginning and Sequel of a Beautiful Friendship](http://www.vldb.org/pvldb/vol8/p2058-anastasia.pdf)    
@@ -98,7 +97,7 @@ https://blockchain.comp.hkbu.edu.hk/blockdm2019/
 https://storj.io/storjv2.pdf    
 https://storj.io/metadisk.pdf   
 http://homepage.divms.uiowa.edu/~ghosh/blockchain.pdf    
-
 https://genaro-docs.oss-cn-shanghai.aliyuncs.com/genaro-yellow-paper.cn.pdf
-
 https://www.usv.com/blog
+https://www.cotnetwork.com/
+http://www.iprs.io/
